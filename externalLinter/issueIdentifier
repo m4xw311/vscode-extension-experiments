@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 3, "there is an issue here" , "detailed reasons here"
+echo 4, "$1", "somehing else"
